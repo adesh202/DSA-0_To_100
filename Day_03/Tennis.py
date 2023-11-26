@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/TTENIS?tab=statement
+
 t=int(input())
 while t>0:
     s=input()
