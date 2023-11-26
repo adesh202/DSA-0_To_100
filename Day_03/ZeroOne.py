@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/ZOOZ?tab=statement
+
 # cook your dish here
 for t in range(int(input())):
     n = int(input())
