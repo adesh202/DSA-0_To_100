@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/ABSTRING?tab=statement
+
 t = int(input())
 for i in range(t):
     n = int(input())
