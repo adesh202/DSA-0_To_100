@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/PRIMEREVERSE?tab=statement
+
 def P(lst1,lst2):
     if(lst1.count(1)==lst2.count(1)):
         print("YES")
